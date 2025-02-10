@@ -1,0 +1,56 @@
+/* .div1 {
+    background-color: rgb(234, 73, 73);
+    height: 500px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.div2 {
+    background-color: rgb(89, 72, 215);
+    height: 500px;
+    width: 100%;
+    margin-bottom: 30px;
+    
+}
+.div3 {
+    background-color: rgb(77, 219, 108);
+    height: 500px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+@media (min-width:480px){
+    .div1 {
+        background-color: rgb(255, 0, 0);
+    }
+    .div2 {
+        background-color: white;
+    }
+    .div3 {
+        background-color: #fff;
+    }
+}
+@media (min-width:992px){
+    .div1 {
+        background-color: rgb(255, 255, 255);
+    }
+    .div2 {
+        background-color: rgb(46, 30, 218);
+    }
+    .div3 {
+        background-color: #fff;
+    }
+}
+@media (min-width:px){
+    .div1 {
+        background-color: rgb(255, 255, 255);
+    }
+    .div2 {
+        background-color: white;
+    }
+    .div3 {
+        background-color: #49bb77;
+    }
+} */
+ .accordion-item .line {
+    background-color: blueviolet;
+ }
+ 
